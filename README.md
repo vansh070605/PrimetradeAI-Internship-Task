@@ -211,11 +211,5 @@ JWT tokens are self-contained — no server-side session storage. This means:
 | Frontend    | React 18 + Vite + React Router v6 + Axios      |
 | Container   | Docker + Docker Compose                        |
 
----
-
-## 👤 Author
-
-**Vansh Agrawal**
-
-> Submitted as part of the PrimetradeAI Backend Engineering Internship Task.
-> Built with Node.js · Express · MongoDB · React · JWT · Docker.
+## Task Submitted by
+Vansh Agrawal
